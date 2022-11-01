@@ -1,16 +1,31 @@
-### Hi there 👋
+## Welcome on my profile page 🖥️💯
 
-<!--
-**YiddishGun11/YiddishGun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```C#
+Using System.Brain;
 
-Here are some ideas to get you started:
+namespace MyWorld
+{
+    internal static class Profile
+    {
+        /// <summary>
+        ///  The main entry point of my Profile
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            - 📍  From Belgium 
+            - 👨‍🎓 Student in computer sciences
+            - 📚 I’m currently working on personnal projects
+            - 📚 I’m currently learning system programming with C & C# & assembly language
+            - 🚀 Interest in web development with ReactJS and ASP.NET
+            
+            Application.Run(Hello 👋);
+        }
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+<p align="center">
+  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/OTg4nrmU8vkty/giphy.gif"/>
+</p>
