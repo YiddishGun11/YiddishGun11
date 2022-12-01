@@ -27,5 +27,5 @@ namespace MyWorld
 ```
 
 <p align="center">
-  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/QraXDBZqcrMfS/giphy.gif"/>
+  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/OTg4nrmU8vkty/giphy.gif"/>
 </p>
