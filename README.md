@@ -17,7 +17,8 @@ namespace MyWorld
             - 👨‍🎓 Student in computer sciences
             - 📚 I’m currently working on secret & private projects
             - 📚 I’m currently learning system programming with C & C# & assembly language
-            - 🚀 Interest in web development with ReactJS and ASP.NET
+            - 📚 Greatly interested by Windows & sys internals
+            - 🚀 I have interest in web development with ReactJS and ASP.NET
             
             Application.Run(Hello 👋);
         }
