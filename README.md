@@ -15,8 +15,9 @@ namespace MyWorld
         {
             - 📍  From Belgium 
             - 👨‍🎓 Student in computer sciences
-            - 📚 I’m currently working on secret & private projects
-            - 📚 I’m currently learning system programming with C & C# & assembly language
+            - 👀 I’m currently working on secret & private projects
+            - 📚 I’m currently learning system programming with C, C# & assembly language
+            - 🧠 Learning C ++ ? => currently thinking about it:)
             - 📚 Greatly interested by Windows & sys internals
             - 🚀 I have interest in web development with ReactJS and ASP.NET
             
